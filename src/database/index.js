@@ -16,3 +16,5 @@ Address.associate(connection.models);
 Tech.associate(connection.models);
 
 module.exports = connection;
+
+// PEdido
